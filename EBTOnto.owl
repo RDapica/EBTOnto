@@ -248,7 +248,7 @@ Declaration(AnnotationProperty(skos:comment))
 Declaration(AnnotationProperty(skos:definition))
 
 ############################
-#   Object Properties
+#   Object Properties 
 ############################
 
 # Object Property: owl:topObjectProperty (owl:topObjectProperty)
