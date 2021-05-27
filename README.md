@@ -1,7 +1,7 @@
 # EBTOnto
 EBTOnto is an OWL domain ontology created for semantic knowledge applications on pilot flight training in Evidence-Based-Training (EBT) framework. 
 
-Whereas the ontology itself is published under Creative Commons Attribution 4.0 International License (see below), the XSLT scripts are provided under GPL.
+The ontology is published under Creative Commons Attribution 4.0 International License (see below).
 
 Please use the following format to cite this ontology:
 Dapica, R., Peinado, F.: EBTOnto -- Evidence-Based-Training Ontology, 2021.
