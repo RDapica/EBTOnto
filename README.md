@@ -6,5 +6,4 @@ The ontology is published under Creative Commons Attribution 4.0 International L
 Please use the following format to cite this ontology:
 Dapica, R., Peinado, F.: EBTOnto -- Evidence-Based-Training Ontology, 2021.
 
-https://creativecommons.org/licenses/by/4.0/Creative 
-EBTOnto is licensed under a Creative Commons Attribution 4.0 International License.   
+EBTOnto is licensed under a Creative Commons Attribution 4.0 International License. https://creativecommons.org/licenses/by/4.0/Creative    
